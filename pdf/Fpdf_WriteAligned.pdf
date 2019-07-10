@@ -1,0 +1,82 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/Contents 4 0 R>>
+endobj
+4 0 obj
+<</Length 399>>
+stream
+0 J
+0 j
+0.57 w
+0.000 G
+0.000 g
+BT /F0a76705d18e0494dd24cb573e53aa0a8c710ec99 12.00 Tf ET
+BT 144.57 760.33 Td (This text is the default alignment, Left)Tj ET
+BT 144.57 661.12 Td (This text is aligned Left)Tj ET
+BT 231.12 561.91 Td (This text is aligned Center)Tj ET
+BT 319.97 462.70 Td (This text is aligned Right)Tj ET
+16.05706 Tw
+BT 144.57 363.48 Td (This can by used to write justified text)Tj ET
+
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+/MediaBox [0 0 595.28 841.89]
+>>
+endobj
+5 0 obj
+<</Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F0a76705d18e0494dd24cb573e53aa0a8c710ec99 5 0 R
+>>
+/XObject <<
+>>
+/ColorSpace <<
+>>
+>>
+endobj
+6 0 obj
+<<
+/Producer (FPDF 1.7)
+/CreationDate (D:20000101000000)
+>>
+endobj
+7 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+>>
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000535 00000 n 
+0000000718 00000 n 
+0000000009 00000 n 
+0000000087 00000 n 
+0000000622 00000 n 
+0000000879 00000 n 
+0000000954 00000 n 
+trailer
+<<
+/Size 8
+/Root 7 0 R
+/Info 6 0 R
+>>
+startxref
+1003
+%%EOF
