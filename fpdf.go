@@ -1587,7 +1587,7 @@ func (f *Fpdf) AddFont(familyStr, styleStr, fileStr string) {
 // definition file to be added. The file will be loaded from the font directory
 // specified in the call to New() or SetFontLocation().
 func (f *Fpdf) AddUTF8Font(familyStr, styleStr, fileStr string) {
-	pretty.Println("WTF")
+	//pretty.Println("WTF")
 	f.addFont(familyStr, styleStr, fileStr, true)
 }
 
@@ -1610,6 +1610,7 @@ func (f *Fpdf) addFont(familyStr, styleStr, fileStr string, isUTF8 bool) {
 		fileStr = path.Join(f.fontpath, fileStr)
 		ttfStat, err = os.Stat(fileStr)
 		if err != nil {
+			pretty.Println("1a : ", f.fontpath)
 			pretty.Println("1a : ", fileStr)
 			pretty.Println("1 : ", err, fileStr)
 			f.SetError(err)
