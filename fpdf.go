@@ -1610,7 +1610,8 @@ func (f *Fpdf) addFont(familyStr, styleStr, fileStr string, isUTF8 bool) {
 		fileStr = path.Join(f.fontpath, fileStr)
 		ttfStat, err = os.Stat(fileStr)
 		if err != nil {
-			pretty.Println("1 : ", err)
+			pretty.Println("1a : ", fileStr)
+			pretty.Println("1 : ", err, fileStr)
 			f.SetError(err)
 			return
 		}
