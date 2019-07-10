@@ -16,11 +16,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/fpdf.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="467">
-              <caret line="1616" column="44" lean-forward="true" selection-start-line="1616" selection-start-column="44" selection-end-line="1616" selection-end-column="44" />
-              <folding>
-                <element signature="e#916#1121#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="47">
+              <caret line="1588" column="65" lean-forward="true" selection-start-line="1588" selection-start-column="65" selection-end-line="1588" selection-end-column="65" />
             </state>
           </provider>
         </entry>
@@ -42,9 +39,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/doc.go">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1115" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -60,7 +55,7 @@
         <entry file="file://$PROJECT_DIR$/Makefile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="90">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
             </state>
           </provider>
         </entry>
@@ -69,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/go.mod">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -113,8 +108,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1837" />
-    <option name="y" value="88" />
+    <option name="x" value="1697" />
+    <option name="y" value="59" />
     <option name="width" value="1920" />
     <option name="height" value="1027" />
   </component>
@@ -170,6 +165,7 @@
       <updated>1562774042708</updated>
       <workItem from="1562774044094" duration="92000" />
       <workItem from="1562774152325" duration="5273000" />
+      <workItem from="1562779857560" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="fix">
       <created>1562774305881</created>
@@ -245,10 +241,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5365000" />
+    <option name="totallyTimeSpent" value="5417000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1837" y="88" width="1920" height="1027" extended-state="0" />
+    <frame x="1680" y="88" width="1920" height="1027" extended-state="0" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24960506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -293,16 +289,7 @@
     <entry file="file://$PROJECT_DIR$/../golang-pdf417/data_encoder.go">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/tools.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="1" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-          <folding>
-            <element signature="e#16#63#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/tools.go" />
     <entry file="file://$PROJECT_DIR$/contrib/barcode/barcode.go">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
@@ -313,18 +300,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Makefile">
+    <entry file="file://$PROJECT_DIR$/.gitattribute" />
+    <entry file="file://$PROJECT_DIR$/.gitignore" />
+    <entry file="file://$PROJECT_DIR$/fpdf.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="47">
+          <caret line="1588" column="65" lean-forward="true" selection-start-line="1588" selection-start-column="65" selection-end-line="1588" selection-end-column="65" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitattribute">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor" />
@@ -336,9 +319,7 @@
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/doc.go">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1115" />
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/go.sum">
       <provider selected="true" editor-type-id="text-editor">
@@ -347,20 +328,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/go.mod">
+    <entry file="file://$PROJECT_DIR$/Makefile">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/fpdf.go">
+    <entry file="file://$PROJECT_DIR$/go.mod">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="467">
-          <caret line="1616" column="44" lean-forward="true" selection-start-line="1616" selection-start-column="44" selection-end-line="1616" selection-end-column="44" />
-          <folding>
-            <element signature="e#916#1121#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

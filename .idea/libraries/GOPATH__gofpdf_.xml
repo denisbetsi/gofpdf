@@ -74,7 +74,6 @@
       <root url="file:///usr/local/go/src/sort" />
       <root url="file:///usr/local/go/src/encoding" />
       <root url="file:///usr/local/go/src/sync" />
-      <root url="file://$PROJECT_DIR$/../../../herimports-api" />
       <root url="file:///usr/local/go/src/crypto" />
       <root url="file:///usr/local/go/src/strconv" />
       <root url="file:///usr/local/go/src/unicode" />
@@ -166,7 +165,6 @@
       <root url="file:///usr/local/go/src/sort" />
       <root url="file:///usr/local/go/src/encoding" />
       <root url="file:///usr/local/go/src/sync" />
-      <root url="file://$PROJECT_DIR$/../../../herimports-api" />
       <root url="file:///usr/local/go/src/crypto" />
       <root url="file:///usr/local/go/src/strconv" />
       <root url="file:///usr/local/go/src/unicode" />
